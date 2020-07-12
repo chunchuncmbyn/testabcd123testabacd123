@@ -8,6 +8,12 @@
   * [SimpleSubstitutionCipher](https://github.com/TheAlgorithms/Java/blob/master/ciphers/SimpleSubstitutionCipher.java)
   * [Vigenere](https://github.com/TheAlgorithms/Java/blob/master/ciphers/Vigenere.java)
 
+## com.hogwarts.test
+  * src
+    * test
+      * java
+        * [junit4demo](https://github.com/TheAlgorithms/Java/blob/master/com.hogwarts.test/src/test/java/junit4demo.java)
+
 ## Conversions
   * [AnyBaseToAnyBase](https://github.com/TheAlgorithms/Java/blob/master/Conversions/AnyBaseToAnyBase.java)
   * [AnyBaseToDecimal](https://github.com/TheAlgorithms/Java/blob/master/Conversions/AnyBaseToDecimal.java)
@@ -84,6 +90,12 @@
     * [TrieImp](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Trees/TrieImp.java)
     * [ValidBSTOrNot](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Trees/ValidBSTOrNot.java)
 
+## demodemogithub
+  * src
+    * main
+      * java
+        * [Main](https://github.com/TheAlgorithms/Java/blob/master/demodemogithub/src/main/java/Main.java)
+
 ## divideconquer
   * [ClosestPair](https://github.com/TheAlgorithms/Java/blob/master/divideconquer/ClosestPair.java)
   * [SkylineAlgorithm](https://github.com/TheAlgorithms/Java/blob/master/divideconquer/SkylineAlgorithm.java)
@@ -102,6 +114,15 @@
   * [LongestValidParentheses](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/LongestValidParentheses.java)
   * [MatrixChainMultiplication](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/MatrixChainMultiplication.java)
   * [RodCutting](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/RodCutting.java)
+
+## gitdemo
+  * src
+    * main
+      * java
+        * [Main](https://github.com/TheAlgorithms/Java/blob/master/gitdemo/src/main/java/Main.java)
+
+## githubdemotest
+        * [Main](https://github.com/TheAlgorithms/Java/blob/master/githubdemotest/src/main/java/Main.java)
 
 ## Maths
   * [AbsoluteMax](https://github.com/TheAlgorithms/Java/blob/master/Maths/AbsoluteMax.java)
